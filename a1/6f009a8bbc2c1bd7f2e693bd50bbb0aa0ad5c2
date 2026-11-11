@@ -1,0 +1,14 @@
+src/m2.js
+  h_30a545d9e8472d 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a16f009a8bbc2c1bd7f2e693bd50bbb0aa0ad5c2",
+  "prompts": {},
+  "humans": {
+    "h_30a545d9e8472d": {
+      "author": "xeno-dev-ai[bot] <343822398+xeno-dev-ai[bot]@users.noreply.github.com>"
+    }
+  }
+}
