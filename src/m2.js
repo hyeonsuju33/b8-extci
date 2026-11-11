@@ -1,1 +1,1 @@
-export const f2 = (a, b) => a - b; // r4
+export const f2 = (a, b) => a + b;
